@@ -9,7 +9,6 @@
   - https://github.com/SparklingDetergent/doc_genai_Prompt_template_collection_-Japanese-/tree/main
 
 
-了解しました。指示に従って、SNSプロンプト集をmarkdown形式の表で整理します。
 
 ---
 
