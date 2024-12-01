@@ -1,0 +1,2 @@
+# doc_genai_Prompt_template_collection_-SNS-
+プロンプトテンプレート集（SNSとかで噂になっている有能なプロンプト検証）
